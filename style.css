@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(234, 244, 232);
+    
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+tr{
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+
+table{
+    
+    border-collapse: collapse;
+    
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: fixed;
+    width: 100%;
+    font-size: 14px;  
+}
+td{
+    text-align: center;
+}
+
+.sun{
+    background-color: rgb(178, 165, 165);
+}
+.blue{ 
+    background-color: rgb(91, 191, 214);
+}
+.yello{
+    background-color: rgb(255, 255, 147);
+}
+.lyello{
+    background-color: rgb(255, 255, 215);
+}
+.pink{
+    background-color: rgb(255, 214, 221);
+}
+.pp{
+    background-color: rgb(255, 209, 255);
+}
